@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+assets
+build
+coverage
+.env.local
+.env.local.example
+.idea
